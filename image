@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Photos</title>
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Hi,I am single😊" />
+    <meta property="og:description" content="I need boyfriend" />
+    <meta property="og:image" content="https://i.redd.it/1t2unibxf5be1.jpeg" />
+    <meta property="og:url" content="https://tinyurl.com/a3ksp9vk" />
+    <meta property="og:type" content="website" />
+</head>
+<body>
+    
+</body>
+</html>
